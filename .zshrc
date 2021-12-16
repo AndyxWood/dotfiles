@@ -107,6 +107,7 @@ alias commit="git commit -m"
 alias status="git status" 
 alias fetch="git fetch"
 alias stash="git stash"
+alias e=vim
 
 alias pull="git pull origin HEAD"
 alias push="git push origin HEAD"
