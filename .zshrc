@@ -109,6 +109,7 @@ alias fetch="git fetch"
 alias stash="git stash"
 alias e=vim
 
+alias reset hard="git reset --hard origin/staging"
 alias pull="git pull origin HEAD"
 alias push="git push origin HEAD"
 alias co="git checkout"	   
